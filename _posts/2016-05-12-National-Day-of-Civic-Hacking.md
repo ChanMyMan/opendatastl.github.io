@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beloved Community Conference
+title: Build for STL
 author: Nehemiah
 ---
 
