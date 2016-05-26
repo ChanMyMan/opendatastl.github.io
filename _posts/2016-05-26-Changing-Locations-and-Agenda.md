@@ -7,7 +7,7 @@ author: Nehemiah
 
 __June 3rd__ 
 * 7:00 Opening Speaches
-*7:30 Sitches from community members :  Red cross, Monsanto, Opendatastl (me petitioning about helping with the website) and  the STL-Courts project intern, then some from  the audience
+* 7:30 Speaches from community members :  Red cross, Monsanto, Opendatastl (me petitioning about helping with the website) and  the STL-Courts project intern, then some from  the audience
 * 8:00 Commence hacking
 __June 4th__
 * 9:00 breakfast   
