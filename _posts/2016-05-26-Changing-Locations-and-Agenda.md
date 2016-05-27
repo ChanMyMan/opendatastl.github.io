@@ -13,7 +13,7 @@ __June 4th__
 - 8:00 breakfast
 - 9:00 More speaches
 - 10:00 Training on linux, Ansible, git, TTD 
-- 12:00 Lunch*
+- 12:00 Lunch
 - 4:00pm Progress report (a time for projects to share what their progress has been so far ) mention what restaurants are around and still open. 
 - Midnight: snack if we can budget it
 __June 5th__ 
