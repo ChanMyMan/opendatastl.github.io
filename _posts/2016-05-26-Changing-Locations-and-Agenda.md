@@ -14,10 +14,6 @@ __June 4th__
 - 9:00 More speaches
 - 10:00 Training on linux, Ansible, git, TTD 
 - 12:00 Lunch
-- 4:00pm Progress report (a time for projects to share what their progress has been so far ) mention what restaurants are around and still open. 
-- Midnight: snack if we can budget it
-__June 5th__ 
-- 9:00 breakfast  
-- 11:00 Commencement and sharing: 
+- 4:00 pm Progress report (a time for projects to share what their progress has been so far ) mention what restaurants are around and still open. 
 
 Signup is here at [Eventbright] (https://www.eventbrite.com/e/build-4-stl-tickets-25272031326)
