@@ -5,6 +5,7 @@ author: Nehemiah
 ---
   
 __June 3rd__  
+  
 - 7:00 Opening Speeches  
 - 7:30 Speeches from community members  
   - Red Cross  
@@ -14,7 +15,8 @@ __June 3rd__
   - Pitches from the attendees    
 - 8:00 Commence hacking  
   
-__June 4th__
+__June 4th__  
+  
 - 8:00 Breakfast  
 - 9:00 Morning Talks  
 - 10:00 Training on Linux, Ansible, git, TTD  
