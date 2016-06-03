@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Agenda
+title: Location Change
 author: Nehemiah
 ---
 
 
- - One last location change, 
- We will  be meeting at the St. Louis Science center and joining them for First Friday!  
+ *Location Change for Today!*  
+ We will be meeting at the [St. Louis Science Center](http://www.slsc.org/) and joining them for [First Friday](http://www.slsc.org/first-fridays)!  
    
  Friday, June 3, 2016 from 6:00 PM to 10:00 PM (CDT)  
  St. Louis Science Center  
