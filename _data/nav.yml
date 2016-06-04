@@ -12,9 +12,6 @@
     - subtitle: "Hosted on github"
       subhref: "https://github.com/OpenDataSTL/stl-datasets"
       external: "yes"
-    - subtitle: "Hosted on plenar.io"
-      subhref: "http://plenar.io/explore"
-      external: "yes"
     - subtitle: "Hosted on Socrata"
       subhref: "https://brigades.opendatanetwork.com/brigade?brigade=Open%20Data%20STL"
       external: "yes"
@@ -30,8 +27,6 @@
   subcategories:
     - subtitle: "About Us"
       subhref: "/about"
-    - subtitle: "Strategic Plan"
-      subhref: "/full-strategic-plan"
     - subtitle: "Leadership Team"
       subhref: "/leadership"
     - subtitle: "Code of Conduct"
