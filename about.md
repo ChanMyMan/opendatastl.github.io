@@ -11,4 +11,4 @@ RSVP for our next event on the OpenDataSTL meetup page at [http://www.meetup.com
 
 ### Contact us
 
-[b@buildforstl.org](mailto:b@buildforstl.org)
+[Email Nehemiah Dacres, co-captain](mailto:nehemiah.dacres@codeforamerica.org)
