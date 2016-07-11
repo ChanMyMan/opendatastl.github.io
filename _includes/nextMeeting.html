@@ -1,0 +1,14 @@
+<script>
+$(document).ready(function() {
+	$.get('https://secure.meetup.com/muapi/2/events?&sign=true&photo-host=public&group_urlname=Open-Data-STL&page=20&photo-host=public&group_urlname=Open-Data-STL&page=20', function(data) {
+		if(data.hasOwnProperty('results') && data.results && data.results.length > 1) {
+			// if we get valid data, put in the next date.
+			var nextMeetup = data.results[0];
+			var formattedDate = moment(nextMeetup.time).format('dddd, MMMM Do [at] h:mm a');
+			var url = nextMeetup.event_url;
+			var name = nextMeetup.name;
+			$('span[data-replace-text=\'next-meetup\']').html('<a href="' + url + '">our next meetup (' + name + ' on ' + formattedDate + ')</a>');
+		}
+	}, 'jsonp');
+});
+</script>
