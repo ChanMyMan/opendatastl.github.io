@@ -31,4 +31,4 @@ hopefully be less inclined to fight for his phone and endangering his ankles or 
 
 **Example**: GPS tracking of the phone to a monitoring station and auto-forwarding of fingerprints of those possessing the stolen phone.
 
-The prize here is that we will work with local police departments to actually impliment and use this software or work with our entrepreneur enfrastructure to bring the product to market.    
+The prize here is that we will shop it around to local police departments to actually impliment and use this software or work with our entrepreneur enfrastructure to bring the product to market.    
