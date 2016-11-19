@@ -4,7 +4,7 @@ title: Leadership Team
 permalink: /leadership/
 ---
 
-<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Arthur Crawford  
+<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">   
 ==========  
 <h2>Co-Captain</h2>  
 Bio coming.  
@@ -19,7 +19,7 @@ Bio coming.
 <h2>Community Organizer</h2>  
 Bio coming.  
   
-<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880">Stephen Leard  
+<img class="profile placeholder" src="https://avatars0.githubusercontent.com/u/5983880"> 
 ==========  
 <h2>Storyteller</h2>  
 Bio coming.  
