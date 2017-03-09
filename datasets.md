@@ -17,3 +17,4 @@ At its heart, OpenDataSTL is about freeing data and making cool stuff with it, a
 [Random Hacks of Kindness Saint Louis](https://communities.socrata.com/catalogs/rhok-st-louis)
 
 ##[St. Louis County GIS Open Datasets](http://data-stlcogis.opendata.arcgis.com/)
+###[Our Own Wiki](http://wiki.opendatastl.org/) 
